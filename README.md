@@ -17,6 +17,8 @@ How to Play:
 Enjoy!
 - Ngoc Dao
 
+<img width="797" alt="image" src="https://user-images.githubusercontent.com/66232491/129983870-1f4e5738-530e-4cc2-aac6-03e1e9e9f28a.png">
+
 <img width="803" alt="image" src="https://user-images.githubusercontent.com/66232491/129983217-be45d31c-47c9-4978-b474-b0fe43fa05d3.png">
 
 <img width="528" alt="image" src="https://user-images.githubusercontent.com/66232491/129983269-d6623073-c885-4e5d-a2d9-a22a6653676c.png">
