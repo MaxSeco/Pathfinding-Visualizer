@@ -3,7 +3,7 @@ This is a pathfinding visualizer using both the a* search and breadth first sear
 
 Steps:
 - Download the project
-- Run the "main" exec file. 
+- Run the "main" file. For windows, run main_for_windows.exe. For Mac, run main_for_mac 
 - Trust the application
 
 
